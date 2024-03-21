@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Interact
+  - Box
+  - Tangga
+  - Level
+  - GameManager_Default
+  - TanggaInteract
+  - Ground Special
+  - FadeOut
+  - Blockade
+  - JournalTexts
+  - PresurePlate
+  - Pintu
+  - Companion_NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Tangga
+  - TanggaInteract
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player 2
+    uniqueID: 3699865975
+    locked: 0
+  - name: Player 1
+    uniqueID: 3766493773
+    locked: 0
+  - name: Ground
+    uniqueID: 3962619919
+    locked: 0
+  - name: Environtment
+    uniqueID: 35985163
+    locked: 0

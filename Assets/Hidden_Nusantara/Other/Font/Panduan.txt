@@ -1,0 +1,5 @@
+CrimsonPro Medium untuk text kalimat panjang (dialog, new game data, dan pertanyaan)
+Jawaban yang memperlukan bold sudah disediakan crimsonpro bold
+Copperplate Bold untuk title dan semua button dan juga TIMER
+
+Ukuran font disesuaikan

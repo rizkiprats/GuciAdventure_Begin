@@ -1,0 +1,10 @@
+Catatan ukuran
+Idle - 3Fps
+WxH (1800*3)x(2264) 
+Run Cycle - 12Fps
+WxH (1800*5)x(2264*2)   
+Jump Cyle - 9/10Fps
+WxH (1800*5)x(2896*2)
+
+W=Collumns
+H=Rows
